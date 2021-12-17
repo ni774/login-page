@@ -21,7 +21,9 @@ nav ul a{
 	text-decoration:none;
 }
   nav ul input{
-  	margin-left:40%;
+  	margin-left:82%;
+	postion:relative;
+	top:-6px;
   }  
   input{
   	border-radius: 24px;
